@@ -4,6 +4,9 @@ This project demonstrates how to create a cycling RGB circle effect for the Orig
 
 ⚠️ **WARNING:** Don't open up an Xbox if you don't know what you're doing, as the PSU internals are exposed and can still hold high voltages for a long time, making it dangerous. I take no responsibility for any damage to an Xbox if you do choose to open one up. ⚠️
 
+It should also be noted, as you will see in my Hackster/Electromaker pages below, that I had issues with this project as trying to fit a microcontroller into an Xbox is rather tricky.
+Make sure to check the pages out for more info on the project and how I actually came up with a better solution; I put the code here because it's handy to have.
+
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Hardware Setup](#hardware-setup)
